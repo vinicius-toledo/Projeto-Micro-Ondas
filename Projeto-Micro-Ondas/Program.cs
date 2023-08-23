@@ -1,8 +1,24 @@
-﻿using System;
+﻿// VINICIUS FIGUEIREDO TOLEDO
+
+// CONSEGUI FAZER OS NIVEIS 1, 2 E 3.
+// FALTOU FAZER A EXPORTAÇÃO DE REGRAS PARA A WEB API.
+
+//NESSE PROJETO CONSEGUIMOS ADICIONAR TEMPO E POTENCIA,
+//INICIAÇÃO RAPIDA, ALGUNS ALIMENTOS PRÉ-DEFINIDOS,
+//E CADASTRO DE MAIS ALIMENTOS COM UM BANCO DE DADOS.
+
+
+
+
+using System;
 using System.Threading;
 using System.Collections.Generic;
 using System.IO;
 using System.Text.Json;
+using System.Runtime.InteropServices;
+
+
+
 
 namespace MicroOndasApp
 {
@@ -246,6 +262,19 @@ namespace MicroOndasApp
             }
         }
     }
+
+    //Faendo a Exportação de regras para WEB API
+
+ 
+
+ 
+
+
+
+
+
+
+
 }
 
 
